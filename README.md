@@ -4,7 +4,8 @@
 1. Ask for input of 2 numbers
 2. Do the addition operation
 3. Display to the terminal
-
+![Alt text](./screenshots/prg-run.png)
 ### Addon feature
 1. Input validation
+   ![Alt text](./screenshots/input-val.png)
 2. Display 2 digits number
